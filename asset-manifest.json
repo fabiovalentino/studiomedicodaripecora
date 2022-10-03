@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/studiomedicodaripecora/static/css/main.6b1d9b64.chunk.css",
-    "main.js": "/studiomedicodaripecora/static/js/main.60cdaf64.chunk.js",
-    "main.js.map": "/studiomedicodaripecora/static/js/main.60cdaf64.chunk.js.map",
+    "main.js": "/studiomedicodaripecora/static/js/main.e15ce381.chunk.js",
+    "main.js.map": "/studiomedicodaripecora/static/js/main.e15ce381.chunk.js.map",
     "runtime-main.js": "/studiomedicodaripecora/static/js/runtime-main.43d6918c.js",
     "runtime-main.js.map": "/studiomedicodaripecora/static/js/runtime-main.43d6918c.js.map",
-    "static/js/2.ca1946f2.chunk.js": "/studiomedicodaripecora/static/js/2.ca1946f2.chunk.js",
-    "static/js/2.ca1946f2.chunk.js.map": "/studiomedicodaripecora/static/js/2.ca1946f2.chunk.js.map",
+    "static/js/2.84b55dde.chunk.js": "/studiomedicodaripecora/static/js/2.84b55dde.chunk.js",
+    "static/js/2.84b55dde.chunk.js.map": "/studiomedicodaripecora/static/js/2.84b55dde.chunk.js.map",
     "index.html": "/studiomedicodaripecora/index.html",
     "static/css/main.6b1d9b64.chunk.css.map": "/studiomedicodaripecora/static/css/main.6b1d9b64.chunk.css.map",
-    "static/js/2.ca1946f2.chunk.js.LICENSE.txt": "/studiomedicodaripecora/static/js/2.ca1946f2.chunk.js.LICENSE.txt",
+    "static/js/2.84b55dde.chunk.js.LICENSE.txt": "/studiomedicodaripecora/static/js/2.84b55dde.chunk.js.LICENSE.txt",
     "static/media/logo-2.cec77211.png": "/studiomedicodaripecora/static/media/logo-2.cec77211.png"
   },
   "entrypoints": [
     "static/js/runtime-main.43d6918c.js",
-    "static/js/2.ca1946f2.chunk.js",
+    "static/js/2.84b55dde.chunk.js",
     "static/css/main.6b1d9b64.chunk.css",
-    "static/js/main.60cdaf64.chunk.js"
+    "static/js/main.e15ce381.chunk.js"
   ]
 }
