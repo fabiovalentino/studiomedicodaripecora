@@ -7,19 +7,19 @@ const Footer = () => {
     <div className=" bg-gray-800">
       <div className="w-9/12 mx-auto grid md:grid-cols-3 grid-cols-1 py-4">
         <div>
-          <Link to="/">
+          <Link to="/studiomedicodaripecora/">
             <img src={logo} alt="" />
           </Link>
         </div>
         <div>
           <h1 className="text-2xl text-white mt-3">Quick Links</h1>
-          <Link to="/about" className="text-gray-200 text-sm py-2 block">
+          <Link to="/studiomedicodaripecora/about" className="text-gray-200 text-sm py-2 block">
             About us
           </Link>
-          <Link to="/services" className="text-gray-200 text-sm py-2 block">
+          <Link to="/studiomedicodaripecora/services" className="text-gray-200 text-sm py-2 block">
             Services
           </Link>
-          <Link to="/about" className="text-gray-200 text-sm py-2">
+          <Link to="/studiomedicodaripecora/about" className="text-gray-200 text-sm py-2">
             About us
           </Link>
         </div>

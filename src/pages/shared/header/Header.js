@@ -18,7 +18,7 @@ const Header = () => {
       <TopBanner />
       {/* navigation for desktop and ipad devices and mobile menu */}
       <div className="md:w-9/12  w-100 md:px-0 px-4 mx-auto flex items-center justify-between py-3">
-        <Link to="/">
+        <Link to="/studiomedicodaripecora/">
           <img
             src={logo}
             alt="Studio Medico Dario Pecora"

@@ -17,7 +17,7 @@ const Navigation = () => {
   return (
     <div className="md:flex justify-center py-3 items-center space-x-3  hidden">
       <NavLink
-        to="/home"
+        to="/studiomedicodaripecora/home"
         activeStyle={activeStyle}
         className="hover:text-gray-100  px-3 py-2 rounded-md font-bold hover:bg-gray-600 text-gray-100 transition-all flex items-center"
       >
@@ -25,7 +25,7 @@ const Navigation = () => {
         Home
       </NavLink>
       <NavLink
-        to="/about"
+        to="/studiomedicodaripecora/about"
         activeStyle={activeStyle}
         className="hover:text-gray-100 px-3 py-2 rounded-md font-bold hover:bg-gray-600 text-gray-100 transition-all flex items-center"
       >
@@ -33,7 +33,7 @@ const Navigation = () => {
         About
       </NavLink>
       <NavLink
-        to="/services"
+        to="/studiomedicodaripecora/services"
         activeStyle={activeStyle}
         className="hover:text-gray-100 px-3 py-2 rounded-md font-bold hover:bg-gray-600 text-gray-100 transition-all flex items-center"
       >
@@ -41,7 +41,7 @@ const Navigation = () => {
         Services
       </NavLink>
       <NavLink
-        to="/therapists"
+        to="/studiomedicodaripecora/therapists"
         activeStyle={activeStyle}
         className="hover:text-gray-100 px-3 py-2 rounded-md font-bold hover:bg-gray-600 text-gray-100 transition-all flex items-center"
       >
@@ -50,7 +50,7 @@ const Navigation = () => {
       </NavLink>
       {user?.displayName || user?.email ? (
         <NavLink
-          to="/profile"
+          to="/studiomedicodaripecora/profile"
           activeStyle={activeStyle}
           className="hover:text-gray-100 px-3 py-2 rounded-md font-bold hover:bg-gray-600 text-gray-100 transition-all flex items-center "
         >
@@ -59,7 +59,7 @@ const Navigation = () => {
         </NavLink>
       ) : (
         <NavLink
-          to="/account"
+          to="/studiomedicodaripecora/account"
           activeStyle={activeStyle}
           className="hover:text-gray-100 px-3 py-2 rounded-md font-bold hover:bg-gray-600 text-gray-100 transition-all flex items-center "
         >

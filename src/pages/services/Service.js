@@ -15,7 +15,7 @@ const Service = (props) => {
       <p className="text-sm text-gray-400 text-center pb-4">{desc}...</p>
       <div className="text-center py-2">
         <Link
-          to={`/service/${id}`}
+          to={`/studiomedicodaripecora/service/${id}`}
           className="bg-gray-100  hover:text-gray-800 p-3 rounded-md text-gray-400 "
         >
           Get appoinment

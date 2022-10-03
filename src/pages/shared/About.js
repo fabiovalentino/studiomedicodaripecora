@@ -20,7 +20,7 @@ const About = () => {
           of services and meet your specific needs and requirements.
         </p>
         <Link
-          to="/services"
+          to="/studiomedicodaripecora/services"
           className=" w-32 flex items-center mt-5 border transition-all hover:text-gray-100 text-gray-800 px-4 py-3 rounded-sm hover:bg-gray-900"
         >
           services <MdArrowRightAlt className="text-xl ml-1" />

@@ -19,24 +19,24 @@ function App() {
     <AuthProvider>
       <Header />
       <Switch>
-        <Route path="/profile" component={Profile} />
-        <Route path="/account" component={Signup} />
-        <Route path="/signin" component={Signin} />
-        <PrivateRoute path="/service/:id">
+        <Route path="/studiomedicodaripecora/profile" component={Profile} />
+        <Route path="/studiomedicodaripecora/account" component={Signup} />
+        <Route path="/studiomedicodaripecora/signin" component={Signin} />
+        <PrivateRoute path="/studiomedicodaripecora/service/:id">
           <ServiceDetails />
         </PrivateRoute>
-        <PrivateRoute path="/services">
+        <PrivateRoute path="/studiomedicodaripecora/services">
           <Services />
         </PrivateRoute>
-        <PrivateRoute path="/therapists">
+        <PrivateRoute path="/studiomedicodaripecora/therapists">
           <Therapists />
         </PrivateRoute>
-        <Route path="/about">
+        <Route path="/studiomedicodaripecora/about">
           <About />
           <AboutSection />
         </Route>
-        <Route exact path="/home" component={Home} />
-        <Route exact path="/" component={Home} />
+        <Route exact path="/studiomedicodaripecora/home" component={Home} />
+        <Route exact path="/studiomedicodaripecora/" component={Home} />
         <Route path="*" component={NotFound} />
       </Switch>
       <Footer />

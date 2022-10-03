@@ -24,7 +24,7 @@ const PrivateRoute = ({ children, ...rest }) => {
         ) : (
           <Redirect
             to={{
-              pathname: "/account",
+              pathname: "/studiomedicodaripecora/account",
               state: { from: location },
             }}
           />
