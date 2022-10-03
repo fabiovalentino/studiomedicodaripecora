@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/studiomedicodaripecora/static/css/main.6b1d9b64.chunk.css",
-    "main.js": "/studiomedicodaripecora/static/js/main.a097e362.chunk.js",
-    "main.js.map": "/studiomedicodaripecora/static/js/main.a097e362.chunk.js.map",
+    "main.js": "/studiomedicodaripecora/static/js/main.60d3dc02.chunk.js",
+    "main.js.map": "/studiomedicodaripecora/static/js/main.60d3dc02.chunk.js.map",
     "runtime-main.js": "/studiomedicodaripecora/static/js/runtime-main.43d6918c.js",
     "runtime-main.js.map": "/studiomedicodaripecora/static/js/runtime-main.43d6918c.js.map",
     "static/js/2.84b55dde.chunk.js": "/studiomedicodaripecora/static/js/2.84b55dde.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.43d6918c.js",
     "static/js/2.84b55dde.chunk.js",
     "static/css/main.6b1d9b64.chunk.css",
-    "static/js/main.a097e362.chunk.js"
+    "static/js/main.60d3dc02.chunk.js"
   ]
 }
