@@ -33,7 +33,7 @@ const Signup = () => {
           <h1 className="my-4 text-2xl ">Create an account</h1>
           <p>
             Already have an account?{" "}
-            <Link className="text-sm text-blue-600" to="/signin">
+            <Link className="text-sm text-blue-600" to="/studiomedicodaripecora/signin">
               Sign in
             </Link>{" "}
           </p>

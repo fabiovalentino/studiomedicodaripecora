@@ -13,7 +13,7 @@ const Banner = () => {
             to your Pain
           </h1>
           <p className="mt-10 text-gray-300">
-            Dr. Robert Joe is prepared to suggest remedial and rehabilitative
+            Dr. Dario Pecora is prepared to suggest remedial and rehabilitative
             activities, and also to give wholesome, dietary and way of life
             directing.
           </p>

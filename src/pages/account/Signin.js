@@ -30,7 +30,7 @@ const Signin = () => {
           <h1 className="my-4 text-2xl ">Sign In</h1>
           <p>
             Don't have an account?
-            <Link className="text-sm text-blue-600" to="/account">
+            <Link className="text-sm text-blue-600" to="/studiomedicodaripecora/account">
               Sign up
             </Link>{" "}
           </p>
